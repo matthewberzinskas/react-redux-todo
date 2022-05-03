@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App bg-dark min-vh-100 p-2">
       <div className="container border bg-light p-3">
-        <header className="text-center">
+        <header className="text-center p-3">
           React Todo App
         </header>
         <Todos />
