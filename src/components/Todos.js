@@ -20,7 +20,7 @@ const Todos = (props) => {
         data: todo,
         completed: false,
       });
-      setTodo("");
+      setTodos("");
     }
   };
 
